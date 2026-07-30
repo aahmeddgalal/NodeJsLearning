@@ -1,0 +1,19 @@
+{
+  "name": "03-tut",
+  "version": "1.0.0",
+  "description": "",
+  "main": "npmLesson.js",
+  "scripts": {
+    "start": "node npmLesson",
+    "dev": "nodemon npmLesson"
+  },
+  "author": "Galileo",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^4.4.0",
+    "uuid": "^14.0.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.14"
+  }
+}
